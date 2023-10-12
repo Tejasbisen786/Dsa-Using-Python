@@ -1,0 +1,11 @@
+** Agenda**
+
+# Why to Learn dsa ?
+#what is the important of structuring data?
+what is data strcute?
+wherer are data structure resides?
+classification of ds?
+algorithm?
+presiqusites
+
+
