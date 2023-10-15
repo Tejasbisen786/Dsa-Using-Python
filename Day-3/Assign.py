@@ -1,9 +1,9 @@
 class Employee:
-    def __init__(self,emp_id=None,name=None,salary=None) :
+    def __init__(self,emp_id=None,name=None,salary=None) :  # Constructor Method we Call it
         self.emp_id=emp_id,
         self.name=name
-        self.salary=salary
-    # Setter methods
+        self.salary=salary      
+    # Setter methods  : in Python
     def setEmpId(self,empid):
         self.emp_id=empid
     def setName(self,name):
