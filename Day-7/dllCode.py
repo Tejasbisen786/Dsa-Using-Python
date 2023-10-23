@@ -13,6 +13,19 @@ class DLL:
     
     def insert_at_start(self,data):
         n=Node(data)
+
+    def insert_at_end(self):
+        pass
+
+    def insert_at_middle(self):
+        pass
+
+    def delete_first(self):
+        pass
         
+
+
+
+
 
 
